@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lucas.
 
 - 🔭 Eu trabalho como Full-Stack Developer / Estagiário / Reply do Brasil
-- 🌱 Cursando Sistemas da Informação 5º Período
+- 🌱 Cursando Sistemas da Informação 6º Período
 - 📫  Contate-me no e-mail: lucassilvadeoliveira@zipmail.com.br
 
 <div>
