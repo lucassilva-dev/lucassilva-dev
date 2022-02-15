@@ -2,7 +2,7 @@
 
 - 🔭 Eu trabalho como Full-Stack Developer / Estagiário / Reply do Brasil
 - 🌱 Cursando Sistemas da Informação 6º Período
-- 📫  Contate-me no e-mail: lucassilvadeoliveira@zipmail.com.br
+- 📫  Contate-me no e-mail: lucasfullstackdeveloper@gmail.com
 
 <div>
   <a href="https://github.com/lucassilva-dev">
