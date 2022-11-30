@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Lucas.
 
-- 🔭 Eu trabalho como Full-Stack Developer / Estagiário / Reply do Brasil
+- 🔭 Eu trabalho como Full-Stack Developer / FullStack Júnior / GreenLegis
 - 🌱 Cursando Sistemas da Informação 7º Período
 - 📫  Contate-me no e-mail: lucasfullstackdeveloper@gmail.com
 
